@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-06-18T20:34:22Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "EKG_V2_LOLIN"
+        },
+        "Owner": "Dimitri Laumann <dima.laumann@gmail.com>",
+        "Size": {
+            "X": 88,
+            "Y": 35.02
+        }
+    }
+}
